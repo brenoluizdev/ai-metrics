@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T08:54:25.337Z",
+  "generatedAt": "2026-11-16T15:00:28.033Z",
   "synthetic": false,
   "period": {
     "from": "2026-10-05",
@@ -9,15 +9,15 @@
   "totals": {
     "projects": 38,
     "sessions": 161,
-    "userMessages": 1885,
-    "assistantMessages": 26186,
+    "userMessages": 1893,
+    "assistantMessages": 26570,
     "activeDays": 38,
     "tokens": {
-      "input": 82659247,
-      "output": 24571600,
-      "cacheRead": 5668153120,
-      "cacheWrite": 170324345,
-      "total": 5945708312
+      "input": 82660063,
+      "output": 25152784,
+      "cacheRead": 5769986949,
+      "cacheWrite": 174147859,
+      "total": 6051947655
     }
   },
   "tools": [
@@ -49,14 +49,14 @@
         "tokens": true
       },
       "sessions": 55,
-      "userMessages": 1816,
-      "assistantMessages": 25256,
+      "userMessages": 1824,
+      "assistantMessages": 25640,
       "tokens": {
-        "input": 53561,
-        "output": 24345281,
-        "cacheRead": 5593662608,
-        "cacheWrite": 170324345,
-        "total": 5788385795
+        "input": 54377,
+        "output": 24926465,
+        "cacheRead": 5695496437,
+        "cacheWrite": 174147859,
+        "total": 5894625138
       },
       "firstActivity": "2026-10-05",
       "lastActivity": "2026-11-16"
@@ -180,14 +180,14 @@
       "name": "projeto-privado-4",
       "public": false,
       "sessions": 1,
-      "userMessages": 119,
-      "assistantMessages": 791,
+      "userMessages": 127,
+      "assistantMessages": 1175,
       "tokens": {
-        "input": 1816,
-        "output": 997455,
-        "cacheRead": 188907255,
-        "cacheWrite": 3154664,
-        "total": 193061190
+        "input": 2632,
+        "output": 1578639,
+        "cacheRead": 290741084,
+        "cacheWrite": 6978178,
+        "total": 299300533
       },
       "firstActivity": "2026-11-14",
       "lastActivity": "2026-11-16",
@@ -195,14 +195,14 @@
         {
           "id": "claude-code",
           "sessions": 1,
-          "userMessages": 119,
-          "assistantMessages": 791,
+          "userMessages": 127,
+          "assistantMessages": 1175,
           "tokens": {
-            "input": 1816,
-            "output": 997455,
-            "cacheRead": 188907255,
-            "cacheWrite": 3154664,
-            "total": 193061190
+            "input": 2632,
+            "output": 1578639,
+            "cacheRead": 290741084,
+            "cacheWrite": 6978178,
+            "total": 299300533
           }
         }
       ]
@@ -1950,14 +1950,14 @@
       {
         "date": "2026-11-16",
         "sessions": 1,
-        "userMessages": 31,
-        "assistantMessages": 253,
-        "tokens": 105310947,
+        "userMessages": 39,
+        "assistantMessages": 637,
+        "tokens": 211550290,
         "byTool": {
           "claude-code": {
             "sessions": 1,
-            "userMessages": 31,
-            "tokens": 105310947
+            "userMessages": 39,
+            "tokens": 211550290
           }
         }
       }
