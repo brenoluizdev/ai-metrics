@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T15:00:29.726Z",
+  "generatedAt": "2026-11-25T15:00:23.554Z",
   "synthetic": false,
   "period": {
     "from": "2026-10-05",
-    "to": "2026-11-24"
+    "to": "2026-11-25"
   },
   "totals": {
-    "projects": 42,
-    "sessions": 172,
-    "userMessages": 2928,
-    "assistantMessages": 45641,
-    "activeDays": 46,
+    "projects": 37,
+    "sessions": 174,
+    "userMessages": 3008,
+    "assistantMessages": 48071,
+    "activeDays": 47,
     "tokens": {
-      "input": 124788138,
-      "output": 42801650,
-      "cacheRead": 9813945553,
-      "cacheWrite": 284910801,
-      "total": 10266446142
+      "input": 127637154,
+      "output": 44113637,
+      "cacheRead": 10101537342,
+      "cacheWrite": 292097958,
+      "total": 10565386091
     }
   },
   "tools": [
@@ -48,18 +48,18 @@
         "messages": true,
         "tokens": true
       },
-      "sessions": 66,
-      "userMessages": 2859,
-      "assistantMessages": 44671,
+      "sessions": 68,
+      "userMessages": 2939,
+      "assistantMessages": 45921,
       "tokens": {
-        "input": 94233,
-        "output": 42802078,
-        "cacheRead": 9779163504,
-        "cacheWrite": 287063810,
-        "total": 10109123625
+        "input": 97174,
+        "output": 44130352,
+        "cacheRead": 10069452355,
+        "cacheWrite": 294383693,
+        "total": 10408063574
       },
       "firstActivity": "2026-10-05",
-      "lastActivity": "2026-11-24"
+      "lastActivity": "2026-11-25"
     },
     {
       "id": "cline",
@@ -86,30 +86,30 @@
     {
       "name": "projeto-privado-1",
       "public": false,
-      "sessions": 6,
-      "userMessages": 960,
-      "assistantMessages": 5034,
+      "sessions": 10,
+      "userMessages": 901,
+      "assistantMessages": 14516,
       "tokens": {
-        "input": 11277,
-        "output": 5823909,
-        "cacheRead": 1689176806,
-        "cacheWrite": 54174263,
-        "total": 1749186255
+        "input": 31706,
+        "output": 10130388,
+        "cacheRead": 2990160392,
+        "cacheWrite": 67305850,
+        "total": 3067628336
       },
-      "firstActivity": "2026-10-17",
-      "lastActivity": "2026-11-13",
+      "firstActivity": "2026-10-24",
+      "lastActivity": "2026-11-25",
       "tools": [
         {
           "id": "claude-code",
-          "sessions": 6,
-          "userMessages": 960,
-          "assistantMessages": 5034,
+          "sessions": 10,
+          "userMessages": 901,
+          "assistantMessages": 14516,
           "tokens": {
-            "input": 11277,
-            "output": 5823909,
-            "cacheRead": 1689176806,
-            "cacheWrite": 54174263,
-            "total": 1749186255
+            "input": 31706,
+            "output": 10130388,
+            "cacheRead": 2990160392,
+            "cacheWrite": 67305850,
+            "total": 3067628336
           }
         }
       ]
@@ -117,30 +117,30 @@
     {
       "name": "projeto-privado-2",
       "public": false,
-      "sessions": 10,
-      "userMessages": 821,
-      "assistantMessages": 17441,
+      "sessions": 4,
+      "userMessages": 418,
+      "assistantMessages": 2971,
       "tokens": {
-        "input": 37348,
-        "output": 10143748,
-        "cacheRead": 3637455197,
-        "cacheWrite": 93381653,
-        "total": 3741017946
+        "input": 6685,
+        "output": 3596267,
+        "cacheRead": 901935195,
+        "cacheWrite": 38418407,
+        "total": 943956554
       },
-      "firstActivity": "2026-10-19",
-      "lastActivity": "2026-11-24",
+      "firstActivity": "2026-10-26",
+      "lastActivity": "2026-11-13",
       "tools": [
         {
           "id": "claude-code",
-          "sessions": 10,
-          "userMessages": 821,
-          "assistantMessages": 17441,
+          "sessions": 4,
+          "userMessages": 418,
+          "assistantMessages": 2971,
           "tokens": {
-            "input": 37348,
-            "output": 10143748,
-            "cacheRead": 3637455197,
-            "cacheWrite": 93381653,
-            "total": 3741017946
+            "input": 6685,
+            "output": 3596267,
+            "cacheRead": 901935195,
+            "cacheWrite": 38418407,
+            "total": 943956554
           }
         }
       ]
@@ -316,67 +316,36 @@
     {
       "name": "projeto-privado-8",
       "public": false,
-      "sessions": 2,
-      "userMessages": 48,
-      "assistantMessages": 146,
+      "sessions": 4,
+      "userMessages": 27,
+      "assistantMessages": 365,
       "tokens": {
-        "input": 302,
-        "output": 166749,
-        "cacheRead": 19752998,
-        "cacheWrite": 430208,
-        "total": 20350257
+        "input": 766,
+        "output": 843477,
+        "cacheRead": 65461902,
+        "cacheWrite": 3206832,
+        "total": 69512977
       },
-      "firstActivity": "2026-10-16",
-      "lastActivity": "2026-10-17",
+      "firstActivity": "2026-10-26",
+      "lastActivity": "2026-11-09",
       "tools": [
         {
           "id": "claude-code",
-          "sessions": 2,
-          "userMessages": 48,
-          "assistantMessages": 146,
+          "sessions": 4,
+          "userMessages": 27,
+          "assistantMessages": 365,
           "tokens": {
-            "input": 302,
-            "output": 166749,
-            "cacheRead": 19752998,
-            "cacheWrite": 430208,
-            "total": 20350257
+            "input": 766,
+            "output": 843477,
+            "cacheRead": 65461902,
+            "cacheWrite": 3206832,
+            "total": 69512977
           }
         }
       ]
     },
     {
       "name": "projeto-privado-9",
-      "public": false,
-      "sessions": 5,
-      "userMessages": 28,
-      "assistantMessages": 380,
-      "tokens": {
-        "input": 796,
-        "output": 898981,
-        "cacheRead": 67170598,
-        "cacheWrite": 3359774,
-        "total": 71430149
-      },
-      "firstActivity": "2026-10-24",
-      "lastActivity": "2026-11-09",
-      "tools": [
-        {
-          "id": "claude-code",
-          "sessions": 5,
-          "userMessages": 28,
-          "assistantMessages": 380,
-          "tokens": {
-            "input": 796,
-            "output": 898981,
-            "cacheRead": 67170598,
-            "cacheWrite": 3359774,
-            "total": 71430149
-          }
-        }
-      ]
-    },
-    {
-      "name": "projeto-privado-10",
       "public": false,
       "sessions": 1,
       "userMessages": 24,
@@ -407,7 +376,7 @@
       ]
     },
     {
-      "name": "projeto-privado-11",
+      "name": "projeto-privado-10",
       "public": false,
       "sessions": 1,
       "userMessages": 17,
@@ -438,7 +407,7 @@
       ]
     },
     {
-      "name": "projeto-privado-12",
+      "name": "projeto-privado-11",
       "public": false,
       "sessions": 1,
       "userMessages": 15,
@@ -469,38 +438,7 @@
       ]
     },
     {
-      "name": "projeto-privado-13",
-      "public": false,
-      "sessions": 2,
-      "userMessages": 14,
-      "assistantMessages": 40,
-      "tokens": {
-        "input": 88,
-        "output": 25774,
-        "cacheRead": 2527676,
-        "cacheWrite": 79076,
-        "total": 2632614
-      },
-      "firstActivity": "2026-10-24",
-      "lastActivity": "2026-10-24",
-      "tools": [
-        {
-          "id": "claude-code",
-          "sessions": 2,
-          "userMessages": 14,
-          "assistantMessages": 40,
-          "tokens": {
-            "input": 88,
-            "output": 25774,
-            "cacheRead": 2527676,
-            "cacheWrite": 79076,
-            "total": 2632614
-          }
-        }
-      ]
-    },
-    {
-      "name": "projeto-privado-14",
+      "name": "projeto-privado-12",
       "public": false,
       "sessions": 1,
       "userMessages": 11,
@@ -531,7 +469,7 @@
       ]
     },
     {
-      "name": "projeto-privado-15",
+      "name": "projeto-privado-13",
       "public": false,
       "sessions": 1,
       "userMessages": 10,
@@ -562,7 +500,7 @@
       ]
     },
     {
-      "name": "projeto-privado-16",
+      "name": "projeto-privado-14",
       "public": false,
       "sessions": 1,
       "userMessages": 6,
@@ -593,7 +531,7 @@
       ]
     },
     {
-      "name": "projeto-privado-17",
+      "name": "projeto-privado-15",
       "public": false,
       "sessions": 1,
       "userMessages": 6,
@@ -624,7 +562,7 @@
       ]
     },
     {
-      "name": "projeto-privado-18",
+      "name": "projeto-privado-16",
       "public": false,
       "sessions": 1,
       "userMessages": 5,
@@ -655,38 +593,7 @@
       ]
     },
     {
-      "name": "projeto-privado-19",
-      "public": false,
-      "sessions": 1,
-      "userMessages": 5,
-      "assistantMessages": 25,
-      "tokens": {
-        "input": 50,
-        "output": 15778,
-        "cacheRead": 1402313,
-        "cacheWrite": 160641,
-        "total": 1578782
-      },
-      "firstActivity": "2026-10-21",
-      "lastActivity": "2026-10-23",
-      "tools": [
-        {
-          "id": "claude-code",
-          "sessions": 1,
-          "userMessages": 5,
-          "assistantMessages": 25,
-          "tokens": {
-            "input": 50,
-            "output": 15778,
-            "cacheRead": 1402313,
-            "cacheWrite": 160641,
-            "total": 1578782
-          }
-        }
-      ]
-    },
-    {
-      "name": "projeto-privado-20",
+      "name": "projeto-privado-17",
       "public": false,
       "sessions": 2,
       "userMessages": 3,
@@ -717,7 +624,7 @@
       ]
     },
     {
-      "name": "projeto-privado-21",
+      "name": "projeto-privado-18",
       "public": false,
       "sessions": 2,
       "userMessages": 3,
@@ -748,7 +655,7 @@
       ]
     },
     {
-      "name": "projeto-privado-22",
+      "name": "projeto-privado-19",
       "public": false,
       "sessions": 1,
       "userMessages": 2,
@@ -779,7 +686,38 @@
       ]
     },
     {
-      "name": "projeto-privado-23",
+      "name": "projeto-privado-20",
+      "public": false,
+      "sessions": 1,
+      "userMessages": 2,
+      "assistantMessages": 10,
+      "tokens": {
+        "input": 20,
+        "output": 3932,
+        "cacheRead": 543553,
+        "cacheWrite": 27960,
+        "total": 575465
+      },
+      "firstActivity": "2026-10-24",
+      "lastActivity": "2026-10-24",
+      "tools": [
+        {
+          "id": "claude-code",
+          "sessions": 1,
+          "userMessages": 2,
+          "assistantMessages": 10,
+          "tokens": {
+            "input": 20,
+            "output": 3932,
+            "cacheRead": 543553,
+            "cacheWrite": 27960,
+            "total": 575465
+          }
+        }
+      ]
+    },
+    {
+      "name": "projeto-privado-21",
       "public": false,
       "sessions": 1,
       "userMessages": 2,
@@ -810,7 +748,7 @@
       ]
     },
     {
-      "name": "projeto-privado-24",
+      "name": "projeto-privado-22",
       "public": false,
       "sessions": 1,
       "userMessages": 1,
@@ -841,38 +779,7 @@
       ]
     },
     {
-      "name": "projeto-privado-25",
-      "public": false,
-      "sessions": 1,
-      "userMessages": 1,
-      "assistantMessages": 11,
-      "tokens": {
-        "input": 22,
-        "output": 3524,
-        "cacheRead": 569697,
-        "cacheWrite": 29249,
-        "total": 602492
-      },
-      "firstActivity": "2026-10-24",
-      "lastActivity": "2026-10-24",
-      "tools": [
-        {
-          "id": "claude-code",
-          "sessions": 1,
-          "userMessages": 1,
-          "assistantMessages": 11,
-          "tokens": {
-            "input": 22,
-            "output": 3524,
-            "cacheRead": 569697,
-            "cacheWrite": 29249,
-            "total": 602492
-          }
-        }
-      ]
-    },
-    {
-      "name": "projeto-privado-26",
+      "name": "projeto-privado-23",
       "public": false,
       "sessions": 1,
       "userMessages": 1,
@@ -903,7 +810,7 @@
       ]
     },
     {
-      "name": "projeto-privado-27",
+      "name": "projeto-privado-24",
       "public": false,
       "sessions": 1,
       "userMessages": 1,
@@ -965,7 +872,7 @@
       ]
     },
     {
-      "name": "projeto-privado-28",
+      "name": "projeto-privado-25",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -996,7 +903,7 @@
       ]
     },
     {
-      "name": "projeto-privado-29",
+      "name": "projeto-privado-26",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1027,7 +934,7 @@
       ]
     },
     {
-      "name": "projeto-privado-30",
+      "name": "projeto-privado-27",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1058,7 +965,7 @@
       ]
     },
     {
-      "name": "projeto-privado-31",
+      "name": "projeto-privado-28",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1089,38 +996,7 @@
       ]
     },
     {
-      "name": "projeto-privado-32",
-      "public": false,
-      "sessions": 1,
-      "userMessages": 0,
-      "assistantMessages": 39,
-      "tokens": {
-        "input": 80,
-        "output": 27467,
-        "cacheRead": 28991375,
-        "cacheWrite": 827615,
-        "total": 29846537
-      },
-      "firstActivity": "2026-10-19",
-      "lastActivity": "2026-10-19",
-      "tools": [
-        {
-          "id": "claude-code",
-          "sessions": 1,
-          "userMessages": 0,
-          "assistantMessages": 39,
-          "tokens": {
-            "input": 80,
-            "output": 27467,
-            "cacheRead": 28991375,
-            "cacheWrite": 827615,
-            "total": 29846537
-          }
-        }
-      ]
-    },
-    {
-      "name": "projeto-privado-33",
+      "name": "projeto-privado-29",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1151,7 +1027,7 @@
       ]
     },
     {
-      "name": "projeto-privado-34",
+      "name": "projeto-privado-30",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1182,7 +1058,7 @@
       ]
     },
     {
-      "name": "projeto-privado-35",
+      "name": "projeto-privado-31",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1213,38 +1089,7 @@
       ]
     },
     {
-      "name": "projeto-privado-36",
-      "public": false,
-      "sessions": 1,
-      "userMessages": 0,
-      "assistantMessages": 98,
-      "tokens": {
-        "input": 198,
-        "output": 155461,
-        "cacheRead": 9580373,
-        "cacheWrite": 353136,
-        "total": 10089168
-      },
-      "firstActivity": "2026-10-24",
-      "lastActivity": "2026-10-24",
-      "tools": [
-        {
-          "id": "claude-code",
-          "sessions": 1,
-          "userMessages": 0,
-          "assistantMessages": 98,
-          "tokens": {
-            "input": 198,
-            "output": 155461,
-            "cacheRead": 9580373,
-            "cacheWrite": 353136,
-            "total": 10089168
-          }
-        }
-      ]
-    },
-    {
-      "name": "projeto-privado-37",
+      "name": "projeto-privado-32",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1275,7 +1120,7 @@
       ]
     },
     {
-      "name": "projeto-privado-38",
+      "name": "projeto-privado-33",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1306,7 +1151,7 @@
       ]
     },
     {
-      "name": "projeto-privado-39",
+      "name": "projeto-privado-34",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1337,7 +1182,7 @@
       ]
     },
     {
-      "name": "projeto-privado-40",
+      "name": "projeto-privado-35",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -1368,7 +1213,7 @@
       ]
     },
     {
-      "name": "projeto-privado-41",
+      "name": "projeto-privado-36",
       "public": false,
       "sessions": 1,
       "userMessages": 0,
@@ -2185,15 +2030,29 @@
       },
       {
         "date": "2026-11-24",
+        "sessions": 2,
+        "userMessages": 144,
+        "assistantMessages": 2322,
+        "tokens": 445906286,
+        "byTool": {
+          "claude-code": {
+            "sessions": 2,
+            "userMessages": 144,
+            "tokens": 445906286
+          }
+        }
+      },
+      {
+        "date": "2026-11-25",
         "sessions": 1,
-        "userMessages": 121,
-        "assistantMessages": 1784,
-        "tokens": 377246679,
+        "userMessages": 57,
+        "assistantMessages": 1892,
+        "tokens": 230280342,
         "byTool": {
           "claude-code": {
             "sessions": 1,
-            "userMessages": 121,
-            "tokens": 377246679
+            "userMessages": 57,
+            "tokens": 230280342
           }
         }
       }
